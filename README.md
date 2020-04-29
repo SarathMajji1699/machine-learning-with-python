@@ -1,2 +1,2 @@
-# machine_learning_with_python_final_project
+# machine_learning_with_python
 loan status
